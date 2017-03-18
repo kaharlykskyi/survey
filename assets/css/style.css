@@ -1,0 +1,64 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+div.welcome {
+	margin-top: 13%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.25);
+	border-radius: 7px;
+}
+div.thanks {
+	padding-bottom: 20px;
+	margin-top: 25%;
+}
+div.welcome>h1 {
+	text-align: center;
+	padding-top: 20px;
+}
+span.glyphicon {
+	margin-right: 7px !important;
+}
+div.information {
+	margin: 15px;
+}
+div.start {
+	margin-bottom: 15px;
+}
+div.radio-wrapper {
+	margin-left: 50px;
+}
+div.cube-img {
+	width: 200px;
+	margin-left: 50px;
+}
+div.cube-img:hover {
+	opacity: 0.7;
+}
+label.answer {
+	margin-left: 10px !important;
+}
+div.answer-input {
+	height: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+span.label {
+	font-size: 16px;
+	padding: 5px;
+}
+div.area-img {
+	width: 250px;
+	margin-left: 50px;
+}
+div.area-img:hover {
+ 	opacity: 0.7;
+}
+div.perimeter img {
+	height: 170px;
+}
+div.x {
+	margin-top: 20px;
+}
+div.time {
+	width:130px;
+}
